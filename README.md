@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey there 👋🏻:
 🚀 Currently working on<br>Building a real-time defect detection system using ⚙️ Faster R-CNN + 🧠 GPT-3.5 for auto-reporting, with React frontend + Azure backend.<br><br>🤝 Open to collaborate on<br>AI/ML, computer vision, defect detection, and cool real-world tech projects!<br><br>🆘 Need help with<br>Optimizing real-time model performance ⚡ and improving report clarity 📄.<br><br>📚 Currently learning<br>Feature engineering, data pipelines, and model tuning 🔍.<br><br>❓ Ask me about<br>Defect detection, CV, ML/DL, React, Azure, or anything AI 🤖.<br><br>🎉 Fun fact<br>I went from predicting house 🏠 prices to inspecting vehicle 🚗 defects with AI!
 
 
