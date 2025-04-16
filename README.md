@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**SaiKr# 💫 About Me:
+# 💫 About Me:
 🚀 Currently working on<br>Building a real-time defect detection system using ⚙️ Faster R-CNN + 🧠 GPT-3.5 for auto-reporting, with React frontend + Azure backend.<br><br>🤝 Open to collaborate on<br>AI/ML, computer vision, defect detection, and cool real-world tech projects!<br><br>🆘 Need help with<br>Optimizing real-time model performance ⚡ and improving report clarity 📄.<br><br>📚 Currently learning<br>Feature engineering, data pipelines, and model tuning 🔍.<br><br>❓ Ask me about<br>Defect detection, CV, ML/DL, React, Azure, or anything AI 🤖.<br><br>🎉 Fun fact<br>I went from predicting house 🏠 prices to inspecting vehicle 🚗 defects with AI!
 
 
@@ -21,16 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SaiKrishi25&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ishi25/SaiKrishi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
